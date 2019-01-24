@@ -1,0 +1,18 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  testglut.cpp
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(248): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(252): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(282): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(476): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(487): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(511): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(530): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\abhin\desktop\evolutionary computation\evolve2\evolve1\testglut.cpp(646): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Evolve1.vcxproj -> C:\Users\abhin\Desktop\Evolutionary Computation\Evolve2\x64\Debug\Evolve1.exe
+  Evolve1.vcxproj -> C:\Users\abhin\Desktop\Evolutionary Computation\Evolve2\x64\Debug\Evolve1.pdb (Full PDB)
